@@ -1,0 +1,28 @@
+# This is the mini-project week4 ------------------------------------------------------------------------------
+# File Name     : .env
+# Date          : 12 Nov 2022
+# Developer     : Samuel KO
+# Description   : Environment Variable File
+#               :  
+# Input         : None
+# Output        : None
+# -------------------------------------------------------------------------------------------------------------
+
+# environment variables defined inside a .env file
+
+# Menu
+COURIER_MENU="---COURIER MENU---, 1) Print Courier List, 2) Add Courier, 3) Update Courier, 4) Delete Courier, 0) Return to Main"
+MAIN_MENU="---MAIN MENU---, 1) Product Menu, 2) Courier Menu, 3) Order Menu, 0) Exit System"
+ORDER_MENU="---ORDER MENU---, 1) Print Order List, 2) Add Order, 3) Update Order Status, 4) Update Existing Order, 5) Delete Order, 0) Return to Main"
+PRODUCT_MENU="---PRODUCT MENU---, 1) Print Product List, 2) Add Product, 3) Update Product, 4) Delete Product, 0) Return to Main"
+STATUS_MENU="---SELSCT STATUS---, 1) Preparing, 2) Out-for-Delivery, 3) Delivered"
+
+# Dictionaries
+COURIER_HEADER="name,phone"
+COURIERFILE="../data/fileCourier.csv"
+
+ORDER_HEADER="customer_name,customer_address,customer_phone,couriers,status,items"
+ORDERFILE="../data/fileOrder.csv"
+
+PRODUCT_HEADER="prodName,price"
+PRODUCTFILE="../data/fileProduct.csv"
