@@ -33,21 +33,13 @@
 	
 <p style="text-align: justify;">&nbsp;</p>
 	
-<p><span style="color:#008000;"><span style="font-size:18px;">Application Testing</span></span></p>
 
-<p style="margin-left:36pt;"><span style="color:#808080;">To ensure the application work as expected, it applies&nbsp;the </span><strong>pytest</strong><span style="color:#808080;"> for unit testing</span></p>
-
-<p style="margin-left:36pt;"><span style="color:#808080;">Give 1 example to show how to do the PYTEST.&nbsp; And describe a similar situation as the other functions.</span></p>
-
-<img src="https://user-images.githubusercontent.com/87363056/203319472-d6847a4b-a4a0-48ce-aa9f-62f59df81a15.png" alt="Pytest for isExsit()" />	
 	
 <p style="text-align: justify;">&nbsp;</p>
 	
 <p style="text-align: justify;"><span style="font-size:28px;">Conclusion</span></p>
 
-<p style="text-align: justify;">It is fun to do software development such as python programming.&nbsp; I enjoy writing the application and refactoring functionalities and features, to make the deliverable code more clean and readable.  As a result, hoping the system should become more functional and run more efficiently.&nbsp;</p>
 
-<p style="text-align: justify;">The most enjoyable thing is debugging the system and solving the logic problem.&nbsp; It makes me think more like in &quot;<strong>Machine Way</strong>&quot;.&nbsp; If I have more time for development, I believe I will enhance the hypocrisy of the list and dictionary, make it more flexible to retrieve and put them into a function for easy calling.</p>
 
 <grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></body>
 </html>
@@ -86,11 +78,16 @@
 <p><span style="color:#808080;">All the required functions will be grouped as their natures.&nbsp; Below will show the details of each menu:</span></p>
 
 <img src="https://user-images.githubusercontent.com/87363056/203549410-1500ab2a-fb43-403c-8a4d-e9bb296db5a8.png" ALIGN=”left” alt="System Menu" />	
-<h2><span style="color:#008000;">System Requirement</span></h2>
-<p>This system requires the following setting:
-  <li>Python 3.10 or above</li>
-  <li>Nasdaq API (Click <a href="https://data.nasdaq.com/tools/api">here</a> link to the website)
-  <li>PostgreSQL / MySQL</li>
-  <Li>Tableau Public (for data visualization)</li>
-  <li>Any program editor (e.g. Pycharm / VS Code)</li>  
+<h2><span style="color:#008000;">Application Testing</span></h2>
+<p style="margin-left:36pt;"><span style="color:#808080;">To ensure the application work as expected, it applies&nbsp;the </span><strong>pytest</strong><span style="color:#808080;"> for unit testing</span></p>
+
+<p style="margin-left:36pt;"><span style="color:#808080;">Give 1 example to show how to do the PYTEST.&nbsp; And describe a similar situation as the other functions.</span></p>
+
+<img src="https://user-images.githubusercontent.com/87363056/203319472-d6847a4b-a4a0-48ce-aa9f-62f59df81a15.png" alt="Pytest for isExsit()" />	
+
+<h2><span style="color:#008000;">Conclusion</span></h2>
+<p style="text-align: justify;">It is fun to do software development such as python programming.&nbsp; I enjoy writing the application and refactoring functionalities and features, to make the deliverable code more clean and readable.  As a result, hoping the system should become more functional and run more efficiently.&nbsp;
+</p>
+
+<p style="text-align: justify;">The most enjoyable thing is debugging the system and solving the logic problem.&nbsp; It makes me think more like in &quot;<strong>Machine Way</strong>&quot;.&nbsp; If I have more time for development, I believe I will enhance the hypocrisy of the list and dictionary, make it more flexible to retrieve and put them into a function for easy calling.
 </p>
