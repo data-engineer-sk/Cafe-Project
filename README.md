@@ -67,15 +67,14 @@
 </html>
   
 <h2><span style="color:#008000;">Project Aims</span></h2>
-<p>
- Simulate a ETL pipeline process to collect data for data analysis.  By using the API from Nasdaq.com, extract the histical stocks data, consumer price index, and the  market capacity for further analysis.
+<p style="text-align: justify;"><span style="color:#808080;">The Mini-Project is initiated to apply what we have equipped from the generation&rsquo;s data engineering programme.&nbsp; The project has been in phase 4 already.&nbsp; The data structure for this development has changed from beginning text file keeping to <strong>CSV</strong> file format storage.&nbsp; By integrating the Python programming technique, Git and GitHub technologies to construct a <strong>C</strong>ommand <strong>L</strong>ine <strong>I</strong>nterface (<strong>CLI</strong>) system to manage the user product, courier and order in this application. Perform the search, add, amend, store and print operations in this system.&nbsp; The completed development will be uploaded to the GitHub repository for version control and storage.
  <ul>
   <li>Main Menu</span></li>
   <li>Product Menu</span></li>
   <li>Courier Menu</span></li>
   <li>Order Menu</span></li>
 </ul>
-</p>
+</span></p>
 <h2><span style="color:#008000;">How it works</span></h2>
 <p>Write a CLI program with python.  Use the API function call provided by Nasdaq.com to extract csv file.  Use packages such as  pandas / numpy to transform the data complie with the user requirement.  Store the results to the PostgreSQL / MysQL Server which act as a data warehouse (Can be stored to RDS in AWS or local machine).  Use SQL to furthur transform the data into a new data table (**Perform unit test to ensure the data are clearn to use in future.
 </p>
