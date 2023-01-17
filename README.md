@@ -67,17 +67,25 @@
 </html>
   
 <h2><span style="color:#008000;">Project Aims</span></h2>
-<p style="text-align: justify;"><span style="color:#808080;">The Mini-Project is initiated to apply what we have equipped from the generation&rsquo;s data engineering programme.&nbsp; The project has been in phase 4 already.&nbsp; The data structure for this development has changed from beginning text file keeping to <strong>CSV</strong> file format storage.&nbsp; By integrating the Python programming technique, Git and GitHub technologies to construct a <strong>C</strong>ommand <strong>L</strong>ine <strong>I</strong>nterface (<strong>CLI</strong>) system to manage the user product, courier and order in this application. Perform the search, add, amend, store and print operations in this system.&nbsp; The completed development will be uploaded to the GitHub repository for version control and storage.
- <ul>
+<p style="text-align: justify;"><span style="color:#808080;">The Mini-Project is initiated to apply what we have equipped from the generation&rsquo;s data engineering programme.&nbsp; The project has been in phase 4 already.&nbsp; The data structure for this development has changed from beginning text file keeping to <strong>CSV</strong> file format storage.&nbsp; By integrating the Python programming technique, Git and GitHub technologies to construct a <strong>C</strong>ommand <strong>L</strong>ine <strong>I</strong>nterface (<strong>CLI</strong>) system to manage the user product, courier and order in this application. Perform the search, add, amend, store and print operations in this system.&nbsp; The completed development will be uploaded to the GitHub repository for version control and storage.</span></p>
+ 
+<h2><span style="color:#008000;">Project Aims</span></h2>
+<p style="text-align: justify;"><span style="color:#808080;">The Mini-Project is initiated to apply what we have equipped from the generation&rsquo;s data engineering programme.&nbsp; The project has been in phase 4 already.&nbsp; The data structure for this development has changed from beginning text file keeping to <strong>CSV</strong> file format storage.&nbsp; By integrating the Python programming technique, Git and GitHub technologies to construct a <strong>C</strong>ommand <strong>L</strong>ine <strong>I</strong>nterface (<strong>CLI</strong>) system to manage the user product, courier and order in this application. Perform the search, add, amend, store and print operations in this system.&nbsp; The completed development will be uploaded to the GitHub repository for version control and storage.</span></p>
+
+<h2><span style="color:#008000;">Client Requirement</span></h2>
+<p><span style="color:#808080;">In general, this system is able to handle three types of operation, namely: products, couriers and orders handling respectively.&nbsp; These operations will be grouped inside the </span><strong>FOUR&nbsp;BASIC MENUS</strong><span style="color:#808080;">, they are:</span></p>
+<ul>
   <li>Main Menu</span></li>
   <li>Product Menu</span></li>
   <li>Courier Menu</span></li>
   <li>Order Menu</span></li>
 </ul>
 </span></p>
-<h2><span style="color:#008000;">How it works</span></h2>
-<p>Write a CLI program with python.  Use the API function call provided by Nasdaq.com to extract csv file.  Use packages such as  pandas / numpy to transform the data complie with the user requirement.  Store the results to the PostgreSQL / MysQL Server which act as a data warehouse (Can be stored to RDS in AWS or local machine).  Use SQL to furthur transform the data into a new data table (**Perform unit test to ensure the data are clearn to use in future.
-</p>
+<h2><span style="color:#008000;">System Design</span></h2>
+
+<p><span style="color:#808080;">All the required functions will be grouped as their natures.&nbsp; Below will show the details of each menu:</span></p>
+
+<img src="https://user-images.githubusercontent.com/87363056/203549410-1500ab2a-fb43-403c-8a4d-e9bb296db5a8.png" ALIGN=”left” alt="System Menu" />	
 <h2><span style="color:#008000;">System Requirement</span></h2>
 <p>This system requires the following setting:
   <li>Python 3.10 or above</li>
