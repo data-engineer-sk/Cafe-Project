@@ -1,7 +1,5 @@
 # Cafe-Project
 
-
-
 <html>
 <head></head>
 <body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1087.0">
@@ -53,3 +51,7 @@
 
 <grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></body>
 </html>
+
+
+
+
